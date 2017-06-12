@@ -1,8 +1,10 @@
+USE `devopsbuddy`;
+
 DROP TABLE IF EXISTS `user_role`;
 DROP TABLE IF EXISTS `role`;
-DROP TABLE IF EXISTS password_reset_token;
+DROP TABLE IF EXISTS `password_reset_token`;
 DROP TABLE IF EXISTS `user`;
-DROP TABLE IF EXISTS plan;
+DROP TABLE IF EXISTS `plan`;
 
 
 --
